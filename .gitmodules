@@ -1,0 +1,3 @@
+[submodule "nib/web/ansql"]
+	path = nib/web/ansql
+	url = https://github.com/itds-consulting/ansql.git
